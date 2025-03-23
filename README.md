@@ -1,4 +1,4 @@
-# SALBP2
+# Instances_SALBP2
 Instances for the simple assembly line balancing problem to minimize the cycle time  
 This instance set contains Scholl’s instances on http://www.assembly-line-balancing.de. To gain a more in-depth and thorough understanding of this problem, interested authors are encouraged to refer to our relevant papers[1].  
 References:  
